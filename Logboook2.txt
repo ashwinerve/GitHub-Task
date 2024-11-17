@@ -1,2 +1,0 @@
-Dec 26  16:43 : Added first logbook in Git 
-Nov 17  6:00 : Visited Portswigger and created account
