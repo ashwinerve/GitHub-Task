@@ -9,4 +9,7 @@
 [Date: 2024-12-10] 18:00 Used Hours=2
 -Created a docker container successfully
 [Date: 2024-12-18] 18:00 Used Hours=2
--
+-Created a working register page
+  -Tested with ZAP three times
+  -Generated the first report and published in GitHub
+  
