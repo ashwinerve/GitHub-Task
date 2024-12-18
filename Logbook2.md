@@ -12,8 +12,8 @@
 [Date: 2024-12-18] 18:00 Used Hours=4
 -Created a working register page
   -Tested with ZAP three times
-  -Generated the first report and published in GitHub
+  -Generated the first report and published in GitHub.[Report 1 - Round 1 unfixed](./Registration_page_unfixed_test_report.md) 
   -Fixed codes for valid username, password.
   -Fixed code for SQL injection vulnerability.
-  -Uploaded the Second report.
+  -Uploaded the Second report.[Report 2 - Round 2 fixed](./registration_page_fixed_test_report-.md) 
   
