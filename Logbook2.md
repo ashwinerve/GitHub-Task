@@ -21,7 +21,7 @@
   -Tested with ZAP and generated first report [Report 3 - Round 1 unfixed](./login_index_page_unfixed_test_report.md)
   -Fixed issues like Set CSP Headers in Server, Added Security Headers Globally, Ensured No Wildcard Directives and Removed Meta Tag for CSP
   -Tested with ZAP again and generated second better report 
-  -Uploaded the fixed codes and report to my GitHub repo [Report 4 - Round 2 fixed](./login_index_page_unfixed_test_report.md)
+  -Uploaded the fixed codes and report to my GitHub repo [Report 4 - Round 2 fixed](./login_index_page_fixed_test_report.md)
   
   
   
