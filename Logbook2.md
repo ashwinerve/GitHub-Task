@@ -1,14 +1,17 @@
-[Date: 2024-11-01] 16:00  Used Hours = 1.5
+[Date: 2024-11-01] 16:00  Used Hours =2
 - Created a new GitHub repository for the assignment.
 - Explored the GitHub environment and added extensions for VS code.
 - Added logbook.md to keep track of progress.
   
-[Date: 2024-11-17] 6:00  Used Hours = 1.5
+[Date: 2024-11-17] 6:00  Used Hours = 2
 - Visited PortSwigger.
 - Created account and explored the site.
   
-[Date: 2024-11-17] 21:13 Used Hours = 3 
+[Date: 2024-11-17] 21:13 Used Hours = 5 
 -Completed 4 PortSwigger labs. 
+
+[Date: 2024-11-28] 21:13 Used Hours = 5 
+-Completed another 4 PortSwigger labs.
 
 [Date: 2024-12-10] 18:00 Used Hours = 2
 -Downloaded and installed docker.
